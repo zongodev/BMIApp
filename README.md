@@ -1,6 +1,7 @@
 # app_bmi
 
 A new Flutter project.
+first flutter project in github
 
 ## Getting Started
 
